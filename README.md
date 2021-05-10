@@ -1,6 +1,6 @@
 Hi I'm Sefiyat
 
-<!--
+
 
 Hi I'm Sefiyat
 
@@ -21,4 +21,3 @@ I have worked on several projects with respect to data cleaning
 You can reach me on: ohidasefiyat@gmail.com
 
 Please ask me questions on Machine learning and Business analyst
--->
