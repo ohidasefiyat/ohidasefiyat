@@ -1,9 +1,6 @@
 Hi I'm Sefiyat
 
 
-
-Hi I'm Sefiyat
-
 Linkedin Profile: www.linkedin.com/in/sefiyat-salami-ohida | Github: https://github.com/ohidasefiyat
 
 About Me
@@ -22,4 +19,4 @@ You can reach me on: ohidasefiyat@gmail.com
 
 Please ask me questions on Machine learning and Business analyst
 
-Need to carry put Cohort analysis of your customers! Please reach out to me
+Need to carry out Cohort analysis of your customers! Please reach out to me
