@@ -3,10 +3,6 @@ Hi I'm Sefiyat
 
 Linkedin Profile: www.linkedin.com/in/sefiyat-salami-ohida | Github: https://github.com/ohidasefiyat
 
-About Me
-
-I used to be an IT support Engineer.
-
 I'm currently working as a Data Scientist in a consulting firm.
 
 I'm a Data Scientist working with Machine learning Models
